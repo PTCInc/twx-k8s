@@ -33,6 +33,10 @@ Please open the pdf file under *book/typstpdf/pdf/* folder and you can see the p
 
 ## Changelog
 
+### [v0.1.2] - 2025-03-25
+- Changed the helm-chart from github.com/xudesheng/charts to github.com/PTCInc/thingworx-charts
+- Fixed the resource section in emessage/main.yaml to align with new version of emessage chart
+
 ### [v0.1.1] - 2025-03-18
 
 - Add README-first.pdf
